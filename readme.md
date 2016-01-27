@@ -19,7 +19,7 @@ The menu item **`Preferences → Browse Packages…`** will open the `Packages` 
 
 ### Archive
 
-Go the the `Packages` folder and unzip/untar.gz the archive there. It'll create a `SideBarEnhancements-ST2` folder. Rename it to `SideBarEnhancements`. Completely restart Sublime and you're all set.
+Download the [`zip` file](https://github.com/MattDMo/SideBarEnhancements-ST2/archive/master.zip) or [`tar.gz` file](https://github.com/MattDMo/SideBarEnhancements-ST2/archive/master.tar.gz). Go the the `Packages` folder and unzip/untar.gz the archive there. It'll create a `SideBarEnhancements-ST2` folder. Rename it to `SideBarEnhancements`. Completely restart Sublime and you're all set.
 
 ### Git
 
